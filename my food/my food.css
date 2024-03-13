@@ -1,0 +1,191 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    line-height: 1.5;
+    font-family: "Karma", sans-serif;
+}
+.head{
+    width: 100%;
+    padding-top: 50px;   
+}
+.main-head{
+     display: flex;
+    justify-content: space-around;
+}
+.bar i{
+    font-size: 30px;
+    color:rgb(102, 102, 102) ;
+}
+.menu h3{        
+    text-align: center;
+    font-size: 24px;
+    font-family: "Karma", sans-serif;
+}
+.mail h2{
+    font-size: 30px;
+    line-height: 1.5;
+    z-index: 1;
+    font-family: "Karma", sans-serif;
+}
+.main-food{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 50px;
+}
+.food img{
+    width: 100%;
+    height: 400px;
+    vertical-align: middle;
+}
+.sandwich {
+    width: 257px;
+}
+.sandwich h3{
+    font-family: "Karma", sans-serif;
+    font-size: 24px;
+    line-height: 1.5;
+    text-align: center;
+    font-weight: 400;
+}
+.sandwich p{
+    box-sizing: inherit;
+    font-family: "Karma", sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    text-align: center;
+}
+.main-button{
+    display: flex;
+    justify-content: center;
+}
+.one{
+    margin-left: 30px;
+}
+.one i{
+    font-size: 15px;
+    line-height: 1.5;
+    color: black;
+}
+.bordeer{
+    margin-left: 100px;
+}
+.about{
+    padding-top: 50px;
+}
+.about h3{
+    font-family: "Karma", sans-serif;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 400;
+
+}
+.chef img{
+   margin:2%  25%; 
+    width: 50%;
+    height: 500px;
+}
+.intro h4{
+    font-weight: bolder;
+    font-family: "Karma", sans-serif;
+    text-align: center;
+    font-size: 20px;
+    line-height: 1.5;
+}
+.intro h6{
+    font-family: "Karma", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    line-height: 1.5;
+}
+.myself{
+    width:90% ;
+    margin-left: 75px;
+} 
+.myself p{
+    font-family: "Karma", sans-serif;
+    text-align: center;
+    font-size: 15px;
+    line-height: 1.5;
+}
+.bordeer1{
+    margin-left: 50px
+}
+.main-blog{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+}
+.footer{
+    width: 257px;
+}
+.footer h3{
+    font-family: "Karma", sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.5;
+}
+.footer p{
+    font-family: "Karma", sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 1.5;
+}
+.blog {
+    width: 257px;
+}
+.posts h3{
+    font-family: "Karma", sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.5;
+}
+.main-lorem{
+    display: flex;
+}
+.nunc img{
+    width: 50px;
+    height: 50px;
+}
+.workshop{
+    padding-left: 10px;
+}
+.workshop h3{
+    font-size: 18px;
+}
+.workshop h2{
+    font-size: 15px;
+}
+.tags{
+    width: 257px;
+}
+.tag h3{
+    font-family: "Karma", sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.5;
+}
+.tag p{
+    box-sizing: inherit;
+    font-size: 15px;
+    line-height: 1.5;
+    font-family: serif;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.w3-margin-bottom {
+    margin-bottom: 16px!important;
+}
+.w3-tag {
+    background-color: #000;
+    color: #fff;
+    display: inline-block;
+    padding-left: 8px;
+    padding-right: 8px;
+    text-align: center;
+}
